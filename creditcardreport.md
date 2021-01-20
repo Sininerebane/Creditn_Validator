@@ -1,6 +1,6 @@
 # Отчёт о тестировании Credit Card Number Validator
 
-<17.01.2021> - <17.01.2021> было проведено <Функциональное тестирование приложения Credit Card Number Validator
+<16.01.2021> - <16.01.2021> было проведено <Функциональное тестирование приложения Credit Card Number Validator
 
 Проверка соответствия выполненных работ  в соответствии с [Техническим заданием](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
 
@@ -30,11 +30,11 @@
 
 ## В процессе тестирования использовались следующие артефакты*:
 
-* Чек лист: 
+* Чек лист:
 1. Валидатор кредитных карт определяет валидную кредитную карту
 2. Валидатор кредитных карт определяет невалидную кредитную карту
 3. Валидатор кредитных карт выдает ошибку, если не соблюден формат добавлени карты
-4. Валидатор кредитных карт выдает ошибку, если вместо номера карты добавить буквенные значения 
+4. Валидатор кредитных карт выдает ошибку, если вместо номера карты добавить буквенные значения
 
 
 * [В качестве тестовых данных использовались данные](https://www.freeformatter.com/credit-card-number-generator-validator.html):
@@ -70,13 +70,13 @@ RESULT FOR: OK
 ## Тестирование производилось в следующем окружении:
 
 * версия и разрядность ОС
-Windows 10 Enterprise
-4-bit operating system, x64-based processor
+  Windows 10 Enterprise
+  4-bit operating system, x64-based processor
 
 * версия Java
-openjdk version "11.0.9.1" 2020-11-04
-OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.9.1+1)
-OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.9.1+1, mixed mode)
+  openjdk version "11.0.9.1" 2020-11-04
+  OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.9.1+1)
+  OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.9.1+1, mixed mode)
 
 
 
