@@ -1,6 +1,6 @@
 # Отчёт о тестировании Credit Card Number Validator
 
-<16.01.2021> - <16.01.2021> было проведено <Функциональное тестирование приложения Credit Card Number Validator
+<17.01.2021> - <17.01.2021> было проведено <Функциональное тестирование приложения Credit Card Number Validator
 
 Проверка соответствия выполненных работ  в соответствии с [Техническим заданием](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
 
