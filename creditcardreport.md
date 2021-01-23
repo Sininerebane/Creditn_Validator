@@ -53,7 +53,7 @@ RESULT FOR: OK
 * 242936630
 * 8767555936678318
 
-## Отчёт о тестировании установки IntelliJ IDEA согласно Руководство по установке IntelliJ IDEA
+## Отчёт о тестировании установки IntelliJ IDEA согласно руководство по установке IntelliJ IDEA
 
 [Следующая инструкция была проверена](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md)
 
