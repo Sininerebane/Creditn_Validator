@@ -35,3 +35,5 @@ public class Main {
         return (result != 0) && (result % 10 == 0);
     }
 }
+
+
